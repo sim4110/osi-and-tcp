@@ -1,1 +1,4 @@
-![osi-and-tcp.png](osi_and_tcp.png)
+OSI 7 Layer and TCP/IP Layer
+===
+
+![osi-and-tcp.png](osi-and-tcp.png)
